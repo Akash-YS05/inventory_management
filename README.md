@@ -1,3 +1,13 @@
+<h1>An Inventory Management App - <a href="https://inventory-management-tau-eight.vercel.app/">Check It Out!</a></h1>
+
+<h2>Made using:</h2>
+<ul>
+  <li>Nextjs</li>
+  <li>Firebase</li>
+  <li>Material UI</li>
+</ul>
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
